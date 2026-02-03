@@ -1,9 +1,5 @@
-fastapi
-uvicorn
+streamlit
 pandas
 scikit-learn
 joblib
-streamlit
-requests
 matplotlib
-pydantic
